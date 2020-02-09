@@ -1,4 +1,4 @@
-# Student Name: Bazillah Zargar, Student ID: 250611535
+# @author Bazillah Zargar
 
 # A simulated country that consists of a name, population, area, and continent
 class Country:
